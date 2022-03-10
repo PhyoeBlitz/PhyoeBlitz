@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phyoe1997
+- 👋 Hi, I’m Phyoe
 - 👀 I’m interested in ... AI,Software Development
 - 🌱 I’m currently learning ...C#
 - 💞️ I’m looking to collaborate on ...Music Application for Android
