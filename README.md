@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... AI,Software Development
 - 🌱 I’m currently learning ...C#
 - 💞️ I’m looking to collaborate on ...Music Application for Android
-- 📫 How to reach me ... Just leave contact
+- 📫 How to reach me ... [Facebook](https://www.facebook.com/Ko.Phyoe.1997)
 
 <!---
 Phyoe1997/Phyoe1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
