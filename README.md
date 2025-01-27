@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Phyoe
-- 👀 I’m interested in ... AI,Software Development
-- 🌱 I’m currently learning ...C#
-- 💞️ I’m looking to collaborate on ...Music Application for Android
+- 👀 I’m interested in ... Software Development & web3
 - 📫 How to reach me ... [Facebook](https://www.facebook.com/Ko.Phyoe.1997)
 
 <!---
