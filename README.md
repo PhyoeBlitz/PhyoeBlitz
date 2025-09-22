@@ -59,7 +59,6 @@ Curious builder at the intersection of web and hardware. I like turning ideas in
 ## 📬 Get in touch
 
 - Portfolio/Blog: https://phyoeblitz.github.io
-- Social: @kophyoe1997 (LinkedIn/Twitter)
 
 ---
 
