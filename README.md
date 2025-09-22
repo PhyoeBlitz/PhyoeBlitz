@@ -40,7 +40,7 @@ Curious builder at the intersection of web and hardware. I like turning ideas in
 
 <!-- You can remove or customize these cards. They use public services many devs include in READMEs. -->
 <picture>
-  <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=PhyoeBlitz&show_icons=true&theme=transparent&hide_title=false&hide_rank=false" />
+  <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=PhyoeBlitz&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true" />
 </picture>
 <picture>
   <img alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhyoeBlitz&layout=compact&langs_count=8&theme=transparent" />
