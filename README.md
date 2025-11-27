@@ -23,6 +23,12 @@ Curious builder at the intersection of web and hardware. I like turning ideas in
   Repo: https://github.com/PhyoeBlitz/phyoeblitz.github.io  
   ![GitHub Repo stars](https://img.shields.io/github/stars/PhyoeBlitz/phyoeblitz.github.io?style=social)
 
+- LEMONEX  
+  LEMONEX (Local E-Money Exchange) is a regional revitalization  
+  DEX platform that creates the future of "regions x stablecoins.".  
+  Repo: https://github.com/axross-xrpl/x-local-dex  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/axross-xrpl/x-local-dex?style=social)
+
 ---
 
 ## 🧰 Toolbox
