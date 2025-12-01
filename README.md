@@ -41,10 +41,11 @@ Curious builder at the intersection of web and hardware. I like turning ideas in
 - Other: Web3 (Blockchain Development)
 
 ---
-
+<!---
 ## 📊 GitHub Stats
-
+--->
 <!-- You can remove or customize these cards. They use public services many devs include in READMEs. -->
+<!---
 <picture>
   <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=PhyoeBlitz&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true" />
 </picture>
@@ -53,7 +54,7 @@ Curious builder at the intersection of web and hardware. I like turning ideas in
 </picture>
 
 ---
-
+--->
 ## ✨ What I like to build
 
 - Clean, minimal UIs with great performance
