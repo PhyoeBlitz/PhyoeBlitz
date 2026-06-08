@@ -7,21 +7,20 @@ Curious builder at the intersection of web and hardware. I like turning ideas in
 - 🌱 Learning more about: performance, accessibility, and edge runtimes
 - 🤝 Open to collaborate on: dev tooling, dashboards, and smart home/arduino ideas
 
-[Website](https://phyoeblitz.github.io) • [Email](mailto:1997kophyoe@gmail.com) • [LinkedIn](https://linkedin.com/in/si-thu-phyo-540a14172/) • [X/Twitter](https://x.com/kophyoe1997)
+[Website](https://phyoe.vercel.app) • [Email](mailto:1997kophyoe@gmail.com) • [LinkedIn](https://linkedin.com/in/si-thu-phyo-540a14172/) • [X/Twitter](https://x.com/kophyoe1997)
 
 ---
 
 ## 🔭 Featured Projects
 
+- Portfolio  
+  My personal website and sandbox for ideas.  
+  Website: https://phyoe.vercel.app
+
 - badge-generate  
   Generate dynamic badges for your projects and workflows.  
   Repo: https://github.com/PhyoeBlitz/badge-generate  
   ![GitHub Repo stars](https://img.shields.io/github/stars/PhyoeBlitz/badge-generate?style=social)
-
-- phyoeblitz.github.io  
-  My personal website and sandbox for ideas.  
-  Repo: https://github.com/PhyoeBlitz/phyoeblitz.github.io  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/PhyoeBlitz/phyoeblitz.github.io?style=social)
 
 - LEMONEX  
   LEMONEX (Local E-Money Exchange) is a regional revitalization  
@@ -65,7 +64,7 @@ Curious builder at the intersection of web and hardware. I like turning ideas in
 
 ## 📬 Get in touch
 
-- Portfolio/Blog: https://phyoeblitz.github.io
+- Portfolio/Blog: https://phyoe.vercel.app
 
 ---
 
