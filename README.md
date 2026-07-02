@@ -17,6 +17,11 @@ Curious builder at the intersection of web and hardware. I like turning ideas in
   My personal website and sandbox for ideas.  
   Website: https://phyoe.vercel.app
 
+- llm-ledger  
+  Zero-dependency token usage and cost tracker for LLM APIs  
+  Repo: https://github.com/PhyoeBlitz/llm-ledger  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/PhyoeBlitz/llm-ledger?style=social)
+
 - badge-generate  
   Generate dynamic badges for your projects and workflows.  
   Repo: https://github.com/PhyoeBlitz/badge-generate  
